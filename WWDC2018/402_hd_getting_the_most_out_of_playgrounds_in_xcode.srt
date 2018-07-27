@@ -400,7 +400,7 @@ UIViewController for iOS and
 
 81
 00:02:54,046 --> 00:02:56,426
-MacOS playgrounds NSView and
+macOS playgrounds NSView and
 
 
 82

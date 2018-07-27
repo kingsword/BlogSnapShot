@@ -2290,7 +2290,7 @@ team and I'm here today to show
 
 459
 00:12:29,476 --> 00:12:31,196
-you the live demo on App Source
+you the live demo on App Store
 
 
 460
@@ -2335,7 +2335,7 @@ remove this user from the team
 
 468
 00:12:44,086 --> 00:12:44,876
-in App Source Connect.
+in App Store Connect.
 
 
 469

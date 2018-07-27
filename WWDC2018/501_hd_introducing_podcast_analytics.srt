@@ -1995,7 +1995,7 @@ those operating systems, Forward
 
 400
 00:13:01,086 --> 00:13:02,656
-and the Analytic Stashboard
+and the Analytic Dashboard
 
 
 401
@@ -2015,7 +2015,7 @@ include Apple Watch listening
 
 404
 00:13:08,466 --> 00:13:11,326
-data starting in launch of S5.
+data starting in watchOS 5.
 
 
 405

@@ -520,7 +520,7 @@ In Xcode, we also have a
 
 105
 00:04:35,106 --> 00:04:36,606
-[inaudible] template for you to
+Metal template for you to
 
 
 106
@@ -795,7 +795,7 @@ and this can be used to perform
 
 160
 00:06:54,076 --> 00:06:56,486
-[inaudible] to place objects in
+hit testing to place objects in
 
 
 161
@@ -4400,12 +4400,12 @@ the AR trackable protocol.
 
 881
 00:36:48,786 --> 00:36:51,346
-This means it [inaudible] is
+This means it comes as a boolean
 
 
 882
 00:36:51,546 --> 00:36:55,036
-tracked, which informs you about
+isTracked, which informs you about
 
 
 883
@@ -5290,7 +5290,7 @@ I will load the video
 
 1059
 00:42:41,916 --> 00:42:45,586
-[inaudible] a AV player from the
+by trading a AV player from the
 
 
 1060
@@ -6135,7 +6135,7 @@ catalog, so it makes it really
 
 1228
 00:48:34,736 --> 00:48:38,486
-easy to [inaudible] a new app
+easy to port them to a new app
 
 
 1229
@@ -6280,7 +6280,7 @@ I can see the progress going up
 
 1257
 00:49:28,326 --> 00:49:30,216
-and [inaudible] representation
+and this tile representation
 
 
 1258
@@ -6830,7 +6830,7 @@ Zero means there is none.
 
 1367
 00:53:14,386 --> 00:53:15,666
-For example, the [inaudible]
+For example, the jaw
 
 
 1368
@@ -6895,7 +6895,7 @@ But it can do better than that.
 
 1380
 00:53:36,286 --> 00:53:38,156
-In fact, when we built an emoji,
+In fact, when we built Animoji,
 
 
 1381
@@ -6950,7 +6950,7 @@ animate your own character just
 
 1391
 00:53:54,896 --> 00:53:56,086
-like we did with an emoji.
+like we did with Animoji.
 
 
 1392
