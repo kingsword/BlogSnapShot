@@ -1,2 +1,2 @@
-# BlogSnapShot
-博客存放的图片 - -#
+# upic
+Typora自动上传的图片路径
